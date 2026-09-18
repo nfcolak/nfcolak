@@ -34,19 +34,6 @@ Applied AI systems, retrieval workflows, explainable machine learning, and pract
 | **Cloud & automation** | Docker · AWS · Azure · Git · GitHub · Power Automate |
 | **Optimization & OR** | Gurobi · Pyomo · CPLEX · GAMS |
 
-## Selected work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**BuffettRAG**](https://github.com/nfcolak/BuffettRAG) | Cited answers over Warren Buffett's Berkshire Hathaway shareholder letters using hybrid retrieval and reranking. | Python · FastAPI · React |
-| [**MedGNN**](https://github.com/nfcolak/MedGNN---Explainable-Graph-Neural-Networks-for-Medical-Diagnosis) | A standardized comparison of explainable graph and tabular models for medical diagnosis. | Python · GNNs · explainable ML |
-| [**Helsinki City Bikes**](https://github.com/nfcolak/Network-Science---Helsinki-City-Bikes---UZH) | A directed station-network analysis built from 258,514 cleaned trips across 351 stations. | Python · NetworkX · Jupyter |
-| [**Turkish Inflation Hedge**](https://github.com/nfcolak/hedging-against-turkish-inflation) | Asset-return and portfolio-allocation analysis under Turkish inflation. | Python · pandas · Jupyter |
-
-## Beyond the models
-
-I care about the contract around a model: reproducible data, measurable evaluation, traceable answers, and interfaces that make technical work usable.
-
 ---
 
 <div align="center">
