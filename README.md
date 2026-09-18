@@ -18,13 +18,7 @@ Applied AI systems, retrieval workflows, explainable machine learning, and pract
 
 - MSc Computer Science at the **University of Zurich**
 - AI & Automation Intern at **Everllence**
-- Based in Zurich, Switzerland
-
-## What I work on
-
-- **RAG & applied AI** — retrieval, reranking, grounded answers, and document workflows
-- **Explainable machine learning** — graph and tabular models whose predictions can be inspected
-- **Data & automation** — analysis pipelines and practical systems that turn repeatable work into tools
+- Based in Zürich, Switzerland
 
 ## Toolbox
 
