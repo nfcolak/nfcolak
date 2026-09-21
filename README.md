@@ -2,7 +2,7 @@
 
 # Necati Furkan Çolak
 
-**Data Scientist · ML Engineer**
+**Data Scientist · ML Engineer · AI Engineer**
 
 Applied AI systems, retrieval workflows, explainable machine learning, and practical data products.
 
